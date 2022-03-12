@@ -1,11 +1,12 @@
 <template>
-  <div class="panel">
-	  <LeftPanelContent />
+  <div class="panel bg--red-01">
+	  <LeftBoardContent />
   </div>
 </template>
 
 <script>
 import LeftBoardContent from './LeftBoardContent.vue'
+
 export default {
 	name: 'LeftBoard',
 	components: {

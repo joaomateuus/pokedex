@@ -1,9 +1,10 @@
 <template>
   <div class="pokedex">
 	  <TopBoard />
+	  <LeftBoard class="pokedex-left" />
 
 	<!---
-	<LeftBoard class="pokedex-left" />
+
 	<Divisor />
 	<RightBoard />
 	-->
@@ -12,9 +13,9 @@
 
 <script>
 import TopBoard from '../components/TopBoard.vue'
-
-/*
 import LeftBoard from './LeftBoard/LeftBoard.vue'
+/*
+
 import RightBoard from './RightBoard/RightBoard.vue'
 import Divisor from './Divisor/Divisor.vue'
 */
@@ -25,7 +26,7 @@ export default {
   components:
   {
 	TopBoard,
-	//LeftBoard,
+	LeftBoard,
 	//Divisor,
 	//RightBoard,
   }

@@ -8,7 +8,7 @@
 import List from '../List/List.vue'
 
 export default {
-	name: 'LeftPanelContent',
+	name: 'LeftBoardContent',
 	components: {
 		List,
 	}
@@ -17,6 +17,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+
 .content{
 	width: 100%;
 
@@ -24,6 +25,8 @@ export default {
 		margin-top: 50px;
 	}
 }
+
+
 
 </style>
 
