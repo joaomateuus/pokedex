@@ -51,7 +51,7 @@
 		height: 50%;
 		height: 40px;
 		left: 0;
-		box-shadow: inset 0 10px 0 0 color('red-03'), inset 0 -10px 0 0 color('red-03') ;
+		box-shadow: inset 0 10px 0 0 color('red-00'), inset 0 -10px 0 0 color('red-03') ;
 	}
 
 	}
