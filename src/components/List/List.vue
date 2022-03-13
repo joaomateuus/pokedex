@@ -19,7 +19,6 @@ export default {
 	border-radius: 8px;
 	padding: 8px 8px 0;
 	overflow: scroll;
-
 	-ms-overflow-style: none;
 	scrollbar-width: none;
 
