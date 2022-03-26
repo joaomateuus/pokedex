@@ -3,7 +3,7 @@
 	  <TopBoard />
 	  <LeftBoard class="pokedex--left" />
 	  <Divisor />
-	  <RightBoard class="pokedex--right"/>
+	  <RightBoard class="pokedex--right" />
   </div>
 </template>
 
