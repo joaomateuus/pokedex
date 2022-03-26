@@ -57,7 +57,7 @@ $triangle-color: color(yellow);
 
 		@media (min-width: $viewport-medium) {
 			transform: translateX(calc(-100% - 40px)) rotateY(0deg);
-			transform-origin: bottom left;
+			transform-origin: left bottom;
 		}
 
 	}
