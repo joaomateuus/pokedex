@@ -1,4 +1,4 @@
-//File for the requests to the api
+//Here we are setting ou url parameteres
 import axios from "axios";
 
 const getPokemons = ({end = 25, begin = 0}) => axios.get(`/pokemon?limit=${end}25&offtset=${begin}`);

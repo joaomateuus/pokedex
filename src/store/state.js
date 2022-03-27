@@ -18,7 +18,7 @@ export default Vue.observable({
 	anyError: false,
 
 	isSearching: false,
-	isPokemonSearching: false,
+	isPokemonSearched: false,
 	anySearchError: false,
 
 	end: END,
