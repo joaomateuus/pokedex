@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import TopBoard from '../components/TopBoard.vue';
+import TopBoard from './TopBoard/TopBoard.vue';
 import LeftBoard from './LeftBoard/LeftBoard.vue';
 import Divisor from './Divisor/Divisor.vue';
 import RightBoard from './RightBoard/RightBoard.vue'

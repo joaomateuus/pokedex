@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import TopBoardButton from '../components/TopBoardButton.vue';
+import TopBoardButton from './TopBoardButton.vue';
 
 
 export default {

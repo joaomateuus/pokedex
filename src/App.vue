@@ -1,6 +1,6 @@
 <template>
   <div id="pokedex">
-		<Pokedex />
+	<Pokedex />
   </div>
 </template>
 

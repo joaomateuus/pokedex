@@ -4,24 +4,18 @@
 			<h3 class="search__label--text">E.g Charizard</h3>
 			<input id="search" class="seach__input" type="text">
 		</label>
-
 		<button class="search__button bg--gray text--yellow" @click.prevent>Search</button>
 	</form>
 </template>
 
 <script>
-
 export default {
 	name: 'RightBoardContent',
 	components: {},
 	data () {
 		return{}
 	},
-	methods: {
-
-	}
-
-
+	methods: {}
 }
 </script>
 
@@ -79,8 +73,5 @@ export default {
 			height: 60px;
 		}
 	}
-
-
 }
-
 </style>
